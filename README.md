@@ -1,2 +1,2 @@
-# NodejsMongoDbDriver
-an example for connecting to Mongo database from Nodejs app. 
+# MongoNode-demo
+a demo for connecting Mongo database from Nodejs app. 
